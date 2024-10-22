@@ -1,0 +1,85 @@
+2024-10-22 21:10:28,524 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-22 21:11:03,626 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.junit:JUnit_EasyMock_Jacoco_Application_03:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\JUnit_EasyMock_Jacoco_Application_03\pom.xml.
+2024-10-22 21:11:07,989 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.docker:Docker_Application:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\Docker_Application\pom.xml.
+2024-10-22 21:11:10,658 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-22 21:11:10,725 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 21:11:10,731 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Docker_Application\src\test\resources
+2024-10-22 21:11:11,557 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.docker:Docker_Application-1:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\Docker_Application-1\pom.xml.
+2024-10-22 21:11:13,093 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-22 21:11:13,110 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 21:11:13,115 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Docker_Application-1\src\test\resources
+2024-10-22 21:11:13,380 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.junit:JUnit_Application_01:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\JUnit_Application_01\pom.xml.
+2024-10-22 21:11:17,582 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:17,585 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_Application_01\src\main\resources
+2024-10-22 21:11:17,588 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:17,589 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_Application_01\src\test\resources
+2024-10-22 21:11:18,083 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.junit:JUnit_Application_02:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\JUnit_EasyMock_Application_02\pom.xml.
+2024-10-22 21:11:21,995 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:21,996 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_EasyMock_Application_02\src\main\resources
+2024-10-22 21:11:21,997 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:21,998 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_EasyMock_Application_02\src\test\resources
+2024-10-22 21:11:22,235 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:22,238 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_EasyMock_Jacoco_Application_03\src\main\resources
+2024-10-22 21:11:22,241 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:22,242 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_EasyMock_Jacoco_Application_03\src\test\resources
+2024-10-22 21:11:22,518 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.junit:JUnit_PowerMock_Application_04:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\JUnit_PowerMock_Application_04\pom.xml.
+2024-10-22 21:11:24,167 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:24,168 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_PowerMock_Application_04\src\main\resources
+2024-10-22 21:11:24,170 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:24,172 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_PowerMock_Application_04\src\test\resources
+2024-10-22 21:11:24,360 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.junit.powermock:JUnit_PowerMock_Application_05:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\JUnit_PowerMock_Application_05\pom.xml.
+2024-10-22 21:11:25,688 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:25,689 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_PowerMock_Application_05\src\main\resources
+2024-10-22 21:11:25,691 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:25,692 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_PowerMock_Application_05\src\test\resources
+2024-10-22 21:11:26,103 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jenkins:Jenkins_Application:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\Jenkins_Application\pom.xml.
+2024-10-22 21:11:27,122 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Jenkins_Application\src\main\resources
+2024-10-22 21:11:27,125 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Jenkins_Application\src\test\resources
+2024-10-22 21:11:27,225 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tools.jenkins:Jenkins_Application_01:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\Jenkins_Application_01\pom.xml.
+2024-10-22 21:11:30,126 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-22 21:11:30,129 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 21:11:30,132 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Docker_Application\src\test\resources
+2024-10-22 21:11:30,736 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-22 21:11:30,739 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 21:11:30,743 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Docker_Application-1\src\test\resources
+2024-10-22 21:11:30,855 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:30,856 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_Application_01\src\main\resources
+2024-10-22 21:11:30,858 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:30,859 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_Application_01\src\test\resources
+2024-10-22 21:11:31,007 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:31,008 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_EasyMock_Application_02\src\main\resources
+2024-10-22 21:11:31,011 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:31,011 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_EasyMock_Application_02\src\test\resources
+2024-10-22 21:11:31,210 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:31,212 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_PowerMock_Application_04\src\main\resources
+2024-10-22 21:11:31,215 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:31,215 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_PowerMock_Application_04\src\test\resources
+2024-10-22 21:11:31,370 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:31,371 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_PowerMock_Application_05\src\main\resources
+2024-10-22 21:11:31,372 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:31,373 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\JUnit_PowerMock_Application_05\src\test\resources
+2024-10-22 21:11:31,424 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-22 21:11:31,424 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\Jenkins_Application_01\src\main\resources
+2024-10-22 21:11:31,425 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-22 21:11:31,425 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\Jenkins_Application_01\src\test\resources
+2024-10-22 21:11:31,540 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.logger:Log4j_Application:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\Log4j_Application\pom.xml.
+2024-10-22 21:11:32,444 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:32,445 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-10-22 21:11:32,466 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:32,467 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\Log4j_Application\src\test\resources
+2024-10-22 21:11:32,677 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.slf4j:Slf4j_Application:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\Slf4j_Application\pom.xml.
+2024-10-22 21:11:33,344 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Slf4j_Application\src\main\resources
+2024-10-22 21:11:33,345 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Slf4j_Application\src\test\resources
+2024-10-22 21:11:34,240 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.scheduling:Springboot_Scheduling:0.0.1-SNAPSHOT @ D:\FullStackJava\tools\Springboot_Scheduling\pom.xml.
+2024-10-22 21:11:35,762 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-22 21:11:35,776 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 21:11:35,778 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Springboot_Scheduling\src\test\resources
+2024-10-22 21:11:36,973 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:36,979 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-10-22 21:11:36,983 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 21:11:36,985 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FullStackJava\tools\Log4j_Application\src\test\resources
+2024-10-22 21:11:37,165 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Slf4j_Application\src\main\resources
+2024-10-22 21:11:37,168 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Slf4j_Application\src\test\resources
+2024-10-22 21:11:37,734 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-22 21:11:37,738 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 21:11:37,742 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStackJava\tools\Springboot_Scheduling\src\test\resources
